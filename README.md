@@ -41,3 +41,4 @@ Pilih format backup (sql/dump):
 - Ketik dump → hasil backup berupa file .dump
 
 ## Screenshot
+![](https://github.com/arifnrrmdn/odoo-docker-database-backup-tool/blob/main/screenshoot/1.png)
